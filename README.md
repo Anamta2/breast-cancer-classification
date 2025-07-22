@@ -15,8 +15,8 @@ This project explores and compares different machine learning models to classify
 - [Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## ✅ Results
-- Achieved ~97% accuracy with Random Forest.
-- Visual comparison of models included.
+- Achieved **98.25% accuracy** using Support Vector Machine (SVM) model.
+- Compared multiple models and visualized results.
 
 ## 🚀 How to Run
 1. Clone this repository:
